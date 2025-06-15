@@ -1,7 +1,7 @@
 body{
     font-family: Arial, sans-serif;
-    min-width: 390px;
-    max-width: 800px;
+    min-width: 375px;
+    max-width: 667px;
     margin: auto;
     background-color: lightgray
 }
@@ -34,7 +34,7 @@ nav a{
 main{
    
     background-color:white ;
-    padding: 20px;
+    padding: .5px;
 }
 .c1{
     width: 250px;
