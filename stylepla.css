@@ -8,8 +8,8 @@ header{
 
 
 body{
-    width: 599px;
-    height: 800px;
+    min-width: 389px;
+    max-width: 800px;
     margin-top: 50px;
     margin: auto;
     background-color: lightgray
