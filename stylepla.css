@@ -1,3 +1,10 @@
+body{
+    min-width: 370px;
+    max-width: 800px;
+    margin-top: 50px;
+    margin: auto;
+    background-color: lightgray
+}
 header{
     background-color: black;
     padding: 15px;
@@ -7,15 +14,8 @@ header{
   
 
 
-body{
-    min-width: 370px;
-    max-width: 800px;
-    margin-top: 50px;
-    margin: auto;
-    background-color: lightgray
-}
 main{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: px;}
 fieldset{
     border: 2px solid black;
