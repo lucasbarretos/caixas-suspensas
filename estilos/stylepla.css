@@ -82,6 +82,39 @@ button {
     border: none;
     border-radius: 25px;
   }
+  footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    
+}
+footer ul li{
+    padding-bottom: 10px;
+}
+
+.lista {
+    padding: 10px;
+    list-style: none;
+    columns: 3;
+}
+footer p{
+    text-align: center;
+}
+
+.redes-sociais img{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
 
 
 
